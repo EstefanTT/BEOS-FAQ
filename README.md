@@ -1,5 +1,9 @@
 # BEOS FAQ
 
+## Why BEOS ? 
+
+...
+
 ### How to transfer eosBEOS to btsBEOS : 
 
 eos-voter (wallet unlock) : "send tokens" / transfer to "destination account" : beos.gateway with a "transfer memo" : bitshares.beos:btsaccountname
@@ -20,10 +24,10 @@ eos-voter (wallet unlock) : Tools > 3rd Party Services > Cross Chain Transfer > 
 
 https://bitsharescan.com/asset/BEOS
 
-# Where/how to buy BEOS?
-# Why we don't have a roadmap?
-# Why we don't have clear communication with the "devs" for the moment?
-# What/how/when/how much ... MANA?
-# Where/how to buy BEOS?
+### Where/how to buy BEOS?
+### Why we don't have a roadmap?
+### Why we don't have clear communication with the "devs" for the moment?
+### What/how/when/how much ... MANA?
+### Where/how to buy BEOS?
 
 
