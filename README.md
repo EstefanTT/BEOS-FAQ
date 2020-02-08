@@ -20,7 +20,7 @@ send to beos.gateway with memo pxbts:eosaccountname::
 
 eos-voter (wallet unlock) : Tools > 3rd Party Services > Cross Chain Transfer > Withdraw from BEOS to BTS
 
-# Where to see the price of BEOS?
+### Where to see the price of BEOS?
 
 https://bitsharescan.com/asset/BEOS
 
