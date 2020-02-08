@@ -1,4 +1,7 @@
-# BEOS FAQ
+<p style="text-align: center;">
+![](https://raw.githubusercontent.com/EstefanTT/BEOS-FAQ/master/beos.png)
+# [BEOS](https://www.beos.world/)
+</p>
 
 ## Why BEOS ? 
 
