@@ -6,11 +6,11 @@
 
 ...
 
-### # How to transfer eosBEOS to btsBEOS : 
+#### # How to transfer eosBEOS to btsBEOS : 
 
 eos-voter (wallet unlock) : "send tokens" / transfer to "destination account" : beos.gateway with a "transfer memo" : bitshares.beos:btsaccountname
 
-### # How to transfer btsBEOS to eosBEOS : 
+##### # How to transfer btsBEOS to eosBEOS : 
 
 transfer to beos.gateway with a memo : beos:eosaccountname
 
