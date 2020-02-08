@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/EstefanTT/BEOS-FAQ/master/beos.png)
+
 # [BEOS](https://www.beos.world/)
 
 ## Why BEOS ? 
