@@ -5,6 +5,14 @@
 ## Why BEOS ? 
 
 ...
+#### #How to set up BTS wallet
+Download wallet, with a BEOS gateway integrated, frlom the following wwebpage:
+
+https://www.beos.world/wallets
+
+Follow in-wallet instructions to setup account. Buy BTS in exchange or transfer into wallet. 
+Then follow instructions below on How to transfer btsBTS to eosBTS.
+
 
 #### # How to transfer eosBEOS to btsBEOS : 
 
