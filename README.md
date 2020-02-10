@@ -8,6 +8,15 @@
 **Jurisdictional agility** including Sovereign Sky's nodes in space, are the key innovation and reason why BEOS will be favored by industrial users, enabling them to ensure compliance in the jurisdictions in which they choose to transact.  
 **Reliable governance.** The BEOS blockchain will be governed by a board of five trustees in a non-profit Utah based BEOS Limited Cooperative Association (BLCA).Trustees serve staggered 5 year terms to ensure stability of operations for businesses wishing to build on BEOS without fear of perturbations from stakeholder voting that might change the terms of service precipitously. Stakeholders do vote for block signers, preserving the decentralized nature essential for blockchain integrity.
 
+#### #How to set up BTS wallet
+Download wallet, with a BEOS gateway integrated, frlom the following wwebpage:
+
+https://www.beos.world/wallets
+
+Follow in-wallet instructions to setup account. Buy BTS in exchange or transfer into wallet. 
+Then follow instructions below on How to transfer btsBTS to eosBTS.
+
+
 #### # How to transfer eosBEOS to btsBEOS : 
 
 eos-voter (wallet unlock) : "send tokens" / transfer to "destination account" : beos.gateway with a "transfer memo" : _bitshares.beos:btsaccountname_
@@ -48,8 +57,6 @@ https://bitsharescan.com/asset/BEOS
 - BEOS Telegram : https://t.me/officialbeos
 - Bitshares features : https://steemit.com/bitshares/@stan/great-list-of-bitshares-features
 
-#### ...
-#### ...
 #### ...
 
 
