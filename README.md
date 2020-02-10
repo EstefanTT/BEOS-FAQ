@@ -6,10 +6,11 @@
 
 **Token portability** means that all BTS and EOS tokens can move between these systems transparently, increasing the utility of the BitShares smart coin factory and access to EOS smart contract technology.  
 **Jurisdictional agility** including Sovereign Sky's nodes in space, are the key innovation and reason why BEOS will be favored by industrial users, enabling them to ensure compliance in the jurisdictions in which they choose to transact.  
-**Reliable governance.** The BEOS blockchain will be governed by a board of five trustees in a non-profit Utah based BEOS Limited Cooperative Association (BLCA).Trustees serve staggered 5 year terms to ensure stability of operations for businesses wishing to build on BEOS without fear of perturbations from stakeholder voting that might change the terms of service precipitously. Stakeholders do vote for block signers, preserving the decentralized nature essential for blockchain integrity.
+**Reliable governance.** The BEOS blockchain will be governed by a board of five trustees in a non-profit Utah based BEOS Limited Cooperative Association (BLCA).Trustees serve staggered 5 year terms to ensure stability of operations for businesses wishing to build on BEOS without fear of perturbations from stakeholder voting that might change the terms of service precipitously. Stakeholders do vote for block signers, preserving the decentralized nature essential for blockchain integrity.  
+**Charitable approach** The BEOS founders are well established industry professionals who take a humanitarian approach in running the BEOS Limited Cooperative Association ("BLCA"). This charitable focus shines through in many of the projects goals such as RUON, which strives to end extreme world poverty. BEOS truly aims to change the world, and in doing so helping the less fortunate and spreading freedom and liberty far and wide.
 
 #### #How to set up BTS wallet
-Download wallet, with a BEOS gateway integrated, frlom the following wwebpage:
+Download wallet, with a BEOS gateway integrated, from the following webpage:
 
 https://www.beos.world/wallets
 
@@ -41,7 +42,13 @@ https://bitsharescan.com/asset/BEOS
 #### # Why we don't have a roadmap?
 #### # Why we don't have clear communication with the "devs" for the moment?
 #### # What/how/when/how much ... MANA?
+
 #### # Where/how to buy BEOS?
+
+BEOS is traded on the Bitshares and DEEX exchanges at the following links:
+
+Bitshares : https://wallet.bitshares.org/#/market/BEOS_BTS  
+DEEX : https://deex.exchange/market/DEEX_BEOS
 
 #### # What projects are launching on BEOS?
 
@@ -56,6 +63,7 @@ https://bitsharescan.com/asset/BEOS
 - BEOS Web Site : https://www.beos.world/  
 - BEOS Telegram : https://t.me/officialbeos
 - Bitshares features : https://steemit.com/bitshares/@stan/great-list-of-bitshares-features
+- BEOS Account Creation & Staking Walkthough Video : https://www.youtube.com/watch?v=VYu017yQcCI
 
 #### ...
 
