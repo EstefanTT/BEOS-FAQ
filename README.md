@@ -8,6 +8,9 @@
 **Jurisdictional agility** including Sovereign Sky's nodes in space, are the key innovation and reason why BEOS will be favored by industrial users, enabling them to ensure compliance in the jurisdictions in which they choose to transact.  
 **Reliable governance.** The BEOS blockchain will be governed by a board of five trustees in a non-profit Utah based BEOS Limited Cooperative Association (BLCA).Trustees serve staggered 5 year terms to ensure stability of operations for businesses wishing to build on BEOS without fear of perturbations from stakeholder voting that might change the terms of service precipitously. Stakeholders do vote for block signers, preserving the decentralized nature essential for blockchain integrity.
 
+##### Article worth to read about BEOS: 
+- [MEDIUM: What is BitShares EOS (BEOS)?](https://link.medium.com/hasxcu8u43)
+
 #### #How to set up BTS wallet
 Download wallet, with a BEOS gateway integrated, frlom the following wwebpage:
 
